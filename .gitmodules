@@ -1,0 +1,3 @@
+[submodule "PCBLib"]
+	path = PCBLib
+	url = git@github.com:mineiwik/PCBLib.git

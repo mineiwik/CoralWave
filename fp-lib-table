@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PCBLib")(type "KiCad")(uri "${KIPRJMOD}/PCBLib/footprints/CoralPCBLib.pretty")(options "")(descr ""))
+)
